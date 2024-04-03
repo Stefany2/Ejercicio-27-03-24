@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Usuarios.Models.Empleado>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorreoElectronico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Departamento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaContratacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorreoElectronico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departamento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cargo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaContratacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salario)
+            </td>
+            <td>
+                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.IdEmpleado">Editar</a> |
+                    <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.IdEmpleado">Detalles</a> |
+                    <a asp-action="Delete" class="btn btn-darger" asp-route-id="@item.IdEmpleado">eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
