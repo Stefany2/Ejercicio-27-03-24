@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Downloads\\Usuarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\models\\datoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\downloads\\usuarios\\usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E284FA0-0DCE-434F-A031-30EAFA9187EC}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,76 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Views\\Empleadoes\\Index.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleadoes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Views\\Empleadoes\\Index.cshtml",
-              "RelativeToolTip": "Usuarios\\Views\\Empleadoes\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAABuAAAA",
+              "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Views\\Empleadoes\\Index.cshtml*",
+              "RelativeToolTip": "Usuarios\\Views\\Empleadoes\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-03T15:02:02.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAACDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-03T14:37:02.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmpleadoesController.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Controllers\\EmpleadoesController.cs",
               "RelativeDocumentMoniker": "Usuarios\\Controllers\\EmpleadoesController.cs",
               "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Controllers\\EmpleadoesController.cs",
               "RelativeToolTip": "Usuarios\\Controllers\\EmpleadoesController.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T14:10:17.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Program.cs",
               "RelativeDocumentMoniker": "Usuarios\\Program.cs",
               "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Program.cs",
               "RelativeToolTip": "Usuarios\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T13:53:20.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DatosContext.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Models\\DatosContext.cs",
               "RelativeDocumentMoniker": "Usuarios\\Models\\DatosContext.cs",
               "ToolTip": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\Models\\DatosContext.cs",
               "RelativeToolTip": "Usuarios\\Models\\DatosContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T13:48:05.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Alumno\\Downloads\\Usuarios\\Usuarios\\appsettings.json",
               "RelativeDocumentMoniker": "Usuarios\\appsettings.json",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "Usuarios\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-03T13:41:00.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T13:41:00.073Z"
             }
           ]
         }
